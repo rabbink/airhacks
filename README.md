@@ -27,3 +27,5 @@ https://github.com/ing-bank/lion
 https://opensource.adobe.com/spectrum-css/
 
 https://bulma.io/
+
+https://github.com/vuejs/vue/graphs/contributors
