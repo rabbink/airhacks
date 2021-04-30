@@ -35,3 +35,5 @@ https://vuejs.org/
 http://tabulator.info/
 
 https://github.com/SAP/ui5-webcomponents
+
+https://github.com/adamBien/bce.design
